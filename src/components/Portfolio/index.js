@@ -1,7 +1,9 @@
-const About = () => {
+import './index.css';
+
+const Portfolio = () => {
   return (
     <div>
-      <p>about page</p>
+      <p>Portfolio page</p>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus
         euismod porttitor. Donec sem nulla, hendrerit id orci et, bibendum
@@ -20,4 +22,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Portfolio;

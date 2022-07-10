@@ -1,4 +1,4 @@
-// not in use
+import './index.css';
 
 const NavBar = ({ currentPage, handlePageChange }) => {
   return (

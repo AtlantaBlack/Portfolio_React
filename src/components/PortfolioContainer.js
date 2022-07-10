@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import NavBar from './NavBar';
-import About from './pages/About';
-import Portfolio from './pages/Portfolio';
-import Contact from './pages/Contact';
-import Resume from './pages/Resume';
+import About from './About';
+import Portfolio from './Portfolio';
+import Contact from './Contact';
+import Resume from './Resume';
 
 const PortfolioContainer = () => {
   const [currentPage, setCurrentPage] = useState('About');

@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './normalize.css'; // skeleton normalize css doc
-import './skeleton.css'; // skeleton css
-import './index.css'; // custom css
+import './assets/css/normalize.css'; // skeleton normalize css doc
+import './assets/css/skeleton.css'; // skeleton css
+import './assets/css/index.css'; // custom css
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
