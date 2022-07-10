@@ -22,13 +22,11 @@
 
 html {
   font-size: 62.5%;
-  /* line-height: 1.5rem; */
 }
 
 body {
-  margin: 0;
   /* FONT FORMAT: font-weight, font-size/line-height font-family */
-  font: 300 20px/1.5 "Garamond", "Georgia", "Times New Roman", "Times", serif;
+  font: 300 20px/1.5 "Garamond", "Georgia", "Times New Roman", "Times", "serif";
   background-color: var(--dark);
   color: var(--text);
   overflow: hidden;
